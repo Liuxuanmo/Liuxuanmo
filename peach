@@ -1,0 +1,1 @@
+<script language="JavaScript"><!--var password="";password=prompt('请输入密码,不然不给看:','');if (password != '/xyx')   {alert("密码不正确,无法进入本站!!");    window.opener=null; window.close();}  // 密码不正确就关闭//--></script>。
